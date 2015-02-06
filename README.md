@@ -70,6 +70,9 @@ boshin [-vh] [-i input_file] [output_path]
     $ boshin | xargs open
     ```
 
+## SEE ALSO
+`target`(3), `capture`(6), `bodysensor`(4)
+
 
 ## AUTHORS
 Masaya Tk (<https://github.com/844196>)
